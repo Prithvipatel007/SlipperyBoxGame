@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b858c9eb7ab1e0940945d0b9a658e3ae
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Beautiful People Personal Use
+  fontNames:
+  - Beautiful People Personal Use
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e6a73433cf3ad1740b36ee9699cf23bf, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
